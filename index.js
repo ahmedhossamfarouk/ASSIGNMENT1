@@ -239,7 +239,8 @@
 //• Input Example: [1, 3, 7, 2, 4]
 //• Output Example: 7
 
-// let arr=[1, 3, 7, 2, 4]
+// function qu13(params) {
+//     let arr=[1, 3, 7, 2, 4]
 
 // function bignumber(arr) {
 //     let {}=arr;
@@ -256,6 +257,9 @@
 // }
 
 // bignumber(arr)
+// }
+
+// qu13()
 
 
                               //..............................................//
@@ -264,7 +268,8 @@
 //• Input Example: name: "John", age: 30}
 //• Output Example: ["name", "age"]
 
-// let obj={
+// function qu14(params) {
+//     let obj={
 //     name: "John",
 //     age: 30
 // }
@@ -273,14 +278,22 @@
     
 // }
 // key(obj)
+// }
+// qu14()
+
+
 
                               //..............................................//
 //15. Write a function that splits a string into an array of words based on spaces. (0.5 Grade)
 //• Input: "The quick brown fox"
 //• Output: ["The", "quick", "brown", "fox"]
 
+// function qu15(params) {
+//     let squence="The quick brown fox";
+// console.log(squence.split(" "));
+// }
 
-
+// qu15()
 
 
 
